@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ip-test-task</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="list_of_products">Список товаров</string>
+    <string name="clear_search_text">Clear Search Text</string>
+    <string name="search_icon">Search icon</string>
+    <string name="in_stock">На складе</string>
+    <string name="date_added">Дата добавления</string>
+    <string name="search_products">Поиск товаров</string>
+    <string name="settings_icon">Settings icon</string>
+    <string name="product_count">Количество товара</string>
+    <string name="delete_product">Удаление товара</string>
+    <string name="accept_delete">Вы действительно хотите удалить выбранный товар?</string>
+    <string name="remove_count">Remove count</string>
+    <string name="add_count">Add count</string>
+    <string name="cancel">Отмена</string>
+    <string name="accept">Принять</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+</resources>
